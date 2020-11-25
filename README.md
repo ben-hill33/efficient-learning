@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Efficient Learning
 
 This course is from Zero to Mastery and focuses on how to be an efficient learner. I bought this course specifically on udemy to increase my learning curve to be able to handle getting through my coding bootcamp at Code Fellows to be a software developer. 
@@ -7,7 +6,6 @@ This course is from Zero to Mastery and focuses on how to be an efficient learne
 [Feynman Technique](pillars/feynman.md)
 [Trunk Based Knowledge](pillars/trunk-knowledge.md)
 
-=======
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ben-hill33/efficient-learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -45,4 +43,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
->>>>>>> 1709f0150793eede47547ad1f9f0f12570b103fc
